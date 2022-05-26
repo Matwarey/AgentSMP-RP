@@ -5,8 +5,8 @@
     "shadow": true,
     "font_size": "left",
     "offset": [33, 7],
-    "anchor_from": "bottom_right",
-    "anchor_to": "bottom_right"
+    "anchor_from": "top_left",
+    "anchor_to": "top_left"
   },
     "New_Player_Animation_UI1": {
      "type": "label",
@@ -14,14 +14,14 @@
      "shadow": true,
      "font_size": "left",
      "offset": [33, 17],
-     "anchor_from": "bottom_right",
-     "anchor_to": "bottom_right"
+     "anchor_from": "top_left",
+     "anchor_to": "top_left"
   },
     "New_Player_Animation_Image": {
      "type": "image",
-     "texture": "textures/lmage",
-     "anchor_from": "bottom_right",
-     "anchor_to": "bottom_right",
+     "texture": "textures/image",
+     "anchor_from": "top_left",
+     "anchor_to": "top_left",
      "offset": [5, 5],
      "size": [23, 23],
      "layer": 3
