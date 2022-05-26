@@ -3,14 +3,14 @@
     "header": {
         "description": "§eAgent SMP RP",
         "name": "§¶§cAgent SMP ► §cAgent SMP's Resource Pack",
-        "uuid": "0476b487-1937-474f-a260-ee0c13544938",
+        "uuid": "0476b487-1937-474f-a260-ee0c1354493k",
         "version": [1, 5, 35]
     },
     "modules": [
         {
             "description": "§eMatwarey Resource",
             "type": "resources",
-            "uuid": "6da42310-7bef-4864-b153-7d510e69420d",
+            "uuid": "6da42310-7bef-4864-b153-7d510e69420w",
             "version": [1, 5, 35]
         }
     ]
