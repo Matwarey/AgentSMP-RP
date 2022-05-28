@@ -1,7 +1,7 @@
 {
   "New_Player_Animation_UI": {
     "type": "label",
-    "text": "§cAgent SMP",
+    "text": "§l§cAgent SMP",
     "shadow": true,
     "font_size": "left",
     "offset": [33, 7],
@@ -10,7 +10,7 @@
   },
     "New_Player_Animation_UI1": {
      "type": "label",
-     "text": "§9discord.gg/XzUDXdHqDJ",
+     "text": "§l§9discord.gg/XzUDXdHqDJ",
      "shadow": true,
      "font_size": "left",
      "offset": [33, 17],
@@ -19,7 +19,7 @@
   },
      "New_Player_Animation_UI2": {
      "type": "label",
-     "text": "§drealms.gg/RaEgLxov69U",
+     "text": "§l§drealms.gg/RaEgLxov69U",
      "shadow": true,
      "font_size": "left",
      "offset": [33, 27],
