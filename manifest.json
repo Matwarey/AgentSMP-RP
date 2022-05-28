@@ -1,16 +1,16 @@
 {
     "format_version": 1,
     "header": {
-        "description": "§eAgent SMP RP",
-        "name": "§¶§cAgent SMP ► §cAgent SMP's Resource Pack",
-        "uuid": "0476b487-1937-474f-a260-ee0c1354493k",
+        "description": "§cAgentSMP Resource",
+        "name": "§¶§cAgent SMP ► §eAgent SMP's Resource Pack",
+        "uuid": "6111e175-af1f-4235-8629-a976f52dcd3b",
         "version": [1, 5, 35]
     },
     "modules": [
         {
-            "description": "§eMatwarey Resource",
+            "description": "§cAgentSMP Resource",
             "type": "resources",
-            "uuid": "6da42310-7bef-4864-b153-7d510e69420w",
+            "uuid": "18137524-838d-4409-846c-3ba6b3f36a2f",
             "version": [1, 5, 35]
         }
     ]
