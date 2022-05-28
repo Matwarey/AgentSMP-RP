@@ -10,7 +10,7 @@
   },
     "New_Player_Animation_UI1": {
      "type": "label",
-     "text": "discord.gg/XzUDXdHqDJ",
+     "text": "§9discord.gg/XzUDXdHqDJ",
      "shadow": true,
      "font_size": "left",
      "offset": [33, 17],
@@ -19,7 +19,7 @@
   },
      "New_Player_Animation_UI2": {
      "type": "label",
-     "text": "realms.gg/RaEgLxov69U",
+     "text": "§drealms.gg/RaEgLxov69U",
      "shadow": true,
      "font_size": "left",
      "offset": [33, 27],
